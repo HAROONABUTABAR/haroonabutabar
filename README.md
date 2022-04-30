@@ -1,21 +1,25 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
-<h1 align="center">Hi 👋, I'm Haroon</h1>
-<h3 align="center">Flutter Developer</h3>
-<img align="right" alt"Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+### Hi there, I'm Haroon 👋
 
+[![Linkedin:Haroon](https://img.shields.io/badge/-Haroon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amira-zahran-87b556175/)](https://www.linkedin.com/in/haroon-abutabar-5505a1207/)
+<p align="left"> <a href="https://twitter.com/haroon_abutabar" target="blank"><img src="https://img.shields.io/twitter/follow/haroon_abutabar?logo=twitter&style=for-the-badge" alt="haroon_abutabar" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroonabutabar&label=Profile%20views&color=0e75b6&style=flat" alt="haroonabutabar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/haroon_abutabar" target="blank"><img src="https://img.shields.io/twitter/follow/haroon_abutabar?logo=twitter&style=for-the-badge" alt="haroon_abutabar" /></a> </p>
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 
-- 🔭 I’m currently working on **doctor application**
+## 👨🏻‍💻 About Me
+
+## I'm a Flutter Developer !!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🌱 I’m currently learning **Rest Api with flutter**
-
+- 👯   I’m currently working on **doctor application**
 - 💬 Ask me about **Flutter , AWS**
-
-- 📫 How to reach me **haroonabutabar9966@gmail.com**
-
+- 📫 You can shoot me an email at haroonabutabar9966@gmail.com! I'll try to respond as soon as I can
 - ⚡ Fun fact **I am Funny**
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
